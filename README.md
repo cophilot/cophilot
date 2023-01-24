@@ -1,6 +1,9 @@
 <p align = "center">
-    <img src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif" alt="Banner" width = "80%"/>
+    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/Banner.gif" alt="Banner" width = "80%"/>
 </p>
+<!--<p align = "center">
+    <img src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif" alt="Banner" width = "80%"/>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
@@ -88,6 +91,8 @@
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phil1436&show_icons=true&locale=en&layout=compact" alt="phil1436" /></p>
 
 <br>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p>-->
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phil1436&" alt="phil1436" /></p>
 
