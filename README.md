@@ -1,5 +1,5 @@
 <p align = "center">
-    <img src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif" alt="Banner"/>
+    <img src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif" alt="Banner" width = "80%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
