@@ -95,5 +95,5 @@
         alt="phil1436" /> </p>
 
 <p align = "center">
-    <img src="https://i.pinimg.com/originals/0f/db/71/0fdb71c38d1947bdadae4541e037c4cf.gif" alt="ByeBye👋"/>
+    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByBye.gif" alt="ByeBye👋"/>
 </p>
