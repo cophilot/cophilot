@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
-<p align = "center"><b>Intern Sales Engineer at <a href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
+<p align = "center"><b><font color ="34389d">Intern</font><font color ="00b9b6"> Sales Engineer</font><font color ="34389d"> at </font><a href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
 
 <h3 align="center">Repositories:</h3>
 <p align="center">
@@ -88,9 +88,9 @@
 
 <br>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phil1436&show_icons=true&locale=en&layout=compact" alt="phil1436" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phil1436&show_icons=true&locale=en&layout=compact" alt="phil1436" /></p>
 
-<br>
+<br> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p>-->
 
@@ -100,5 +100,5 @@
         alt="phil1436" /> </p>
 
 <p align = "center">
-    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByBye.gif" alt="ByeBye👋"/>
+    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
 </p>
