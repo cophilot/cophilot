@@ -1,3 +1,4 @@
+<body>
 <p align = "center">
 <a href="https://phil-online.000webhostapp.com/">
     <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/Banner.gif" alt="Banner" width = "80%"/>
@@ -9,8 +10,11 @@
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
-<p align = "center"><b>Intern Sales Engineer at <a href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
+<section class ="red">
+<b>Intern Sales Engineer at <a href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a>
+</section>
 
+<section class="blue">
 <h3 align="center">Repositories:</h3>
 <p align="center">
     <!--VSCode-ObjectScript-HowTo-->
@@ -34,6 +38,13 @@
         <img src="https://raw.githubusercontent.com/phil1436/ownvscodeextension/master/resources/logo.png" alt="ownvscodeextension" height="60" />
     </a>
 </p>
+<div class="custom-shape-divider-top-1674898006">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
+    </svg>
+</div>
+</section>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
         <!--IRIS-->
@@ -104,3 +115,66 @@
 <p align = "center">
     <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
 </p>
+</body>
+<style>
+    section{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .red{
+        background: #dd3f31;
+    }
+    .blue{
+        background: #3c31dd;
+    }
+    .curve{
+        position: absolute;
+        height: 225px;
+        width: 100%;
+        bottom: 0;
+    }
+    .curve::before{
+        content: '';
+        display: block;
+        position: absolute;
+        border-radius: 100% 50%;
+        width: 55%;
+        height: 100%;
+        background-color: #3c31dd;
+        transform: translate(85%, 60%);
+    }
+    .curve::after{
+        content: '';
+        display: block;
+        position: absolute;
+        border-radius: 100% 50%;
+        width: 55%;
+        height: 100%;
+        background-color: #dd3f31;
+        transform: translate(-4%, 40%);
+        z-index: -1;
+    }
+    .custom-shape-divider-top-1674898006 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    }
+
+    .custom-shape-divider-top-1674898006 svg {
+        position: relative;
+        display: block;
+        width: calc(100% + 1.3px);
+        height: 53px;
+    }
+
+    .custom-shape-divider-top-1674898006 .shape-fill {
+        fill: #dd3f31;
+    }
+
+</style>
