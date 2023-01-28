@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
-<p align = "center"><b><font color ="34389d">Intern</font><font color ="00b9b6"> Sales Engineer</font><font color ="34389d"> at </font><a href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
+<p align = "center"><b>Intern Sales Engineer at <a href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
 
 <h3 align="center">Repositories:</h3>
 <p align="center">
