@@ -1,6 +1,6 @@
 <p align = "center">
 <a href="https://phil-online.000webhostapp.com/">
-    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/Banner.gif" alt="Banner" width = "80%"/>
+    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/HiThere.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
 <!--<p align = "center">
