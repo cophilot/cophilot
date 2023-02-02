@@ -13,14 +13,6 @@
 
 <h3 align="center">Repositories:</h3>
 <p align="center">
-    <!--VSCode-ObjectScript-HowTo-->
-    <a href="https://github.com/phil1436/VSCode-ObjectScript-HowTo" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="VSCode-ObjectScript-HowTo" height="60" />
-    </a>
-    <!--node-red-contrib-iris-->
-    <a href="https://github.com/phil1436/node-red-contrib-iris" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/phil1436/node-red-contrib-iris/master/src/InterSystemsLogo.png" alt="node-red-contrib-iris" height="60" />
-    </a>
     <!--ownobjectscriptextension-->
     <a href="https://github.com/phil1436/ownobjectscriptextension" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/ownobjectscriptextension/master/resources/logo.png" alt="ownobjectscriptextension" height="60" />
@@ -32,6 +24,14 @@
     <!--ownvscodeextension-->
     <a href="https://github.com/phil1436/ownvscodeextension" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/ownvscodeextension/master/resources/logo.png" alt="ownvscodeextension" height="60" />
+    </a>
+    <!--VSCode-ObjectScript-HowTo-->
+    <a href="https://github.com/phil1436/VSCode-ObjectScript-HowTo" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="VSCode-ObjectScript-HowTo" height="60" />
+    </a>
+    <!--node-red-contrib-iris-->
+    <a href="https://github.com/phil1436/node-red-contrib-iris" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/node-red-contrib-iris/master/src/InterSystemsLogo.png" alt="node-red-contrib-iris" height="60" />
     </a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
