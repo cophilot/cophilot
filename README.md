@@ -96,10 +96,10 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p>-->
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phil1436&" alt="phil1436" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phil1436&" alt="phil1436-streak-stats" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=0e75b6&style=flat"
-        alt="phil1436" /> </p>
+        alt="phil1436-profile-views" /> </p>
 
 <p align = "center">
     <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
