@@ -25,6 +25,10 @@
     <a href="https://github.com/phil1436/ownvscodeextension" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/ownvscodeextension/master/resources/logo.png" alt="ownvscodeextension" height="60" />
     </a>
+    <!--InterSystems-HiThere-GIFGenerator-->
+    <a href="https://github.com/phil1436/InterSystemsHiThereGifGenerator" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/InterSystemsHiThereGifGenerator/master/resources/logo.png" alt="InterSystems-HiThere-GIFGenerator" height="60" />
+    </a>
     <!--VSCode-ObjectScript-HowTo-->
     <a href="https://github.com/phil1436/VSCode-ObjectScript-HowTo" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="VSCode-ObjectScript-HowTo" height="60" />
