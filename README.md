@@ -29,9 +29,13 @@
     <a href="https://github.com/phil1436/InterSystemsHiThereGifGenerator" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/InterSystemsHiThereGifGenerator/master/resources/logo.png" alt="InterSystems-HiThere-GIFGenerator" height="60" />
     </a>
-    <!--VSCode-ObjectScript-HowTo-->
+    <!--VSCode-ObjectScript-HowTo
     <a href="https://github.com/phil1436/VSCode-ObjectScript-HowTo" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="VSCode-ObjectScript-HowTo" height="60" />
+        <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="VSCode-ObjectScript-HowTo" height="60" />-->
+    </a>
+    <!--MTConnect-ObjectScript-->
+    <a href="https://github.com/phil1436/MTConnect-ObjectScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/MTConnect-ObjectScript/master/resources/logo.png" alt="MTConnect-ObjectScript" height="60" />
     </a>
     <!--node-red-contrib-iris-->
     <a href="https://github.com/phil1436/node-red-contrib-iris" target="_blank" rel="noreferrer">
