@@ -102,11 +102,13 @@
 
 <br> -->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p>-->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p> -->
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phil1436&" alt="phil1436-streak-stats" /></p>
+<p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=phil1436&theme=github-dark&hide_border=true&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF" alt="phil1436-streak-stats" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=0e75b6&style=flat"
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&theme=transparent" alt="phil1436-stats" /></p> -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=02b5af&style=flat"
         alt="phil1436-profile-views" /> </p>
 
 <p align = "center">
