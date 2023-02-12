@@ -106,7 +106,7 @@
 
 <p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=phil1436&theme=github-dark&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF&border=02B5AF" /></p>
 
-<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=02b5af&text_color=ffffff&title_color=02b5af&icon_color=323694&&hide=issues,contribs" alt="phil1436-stats" /></p> -->
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=02b5af&text_color=ffffff&title_color=02b5af&icon_color=323694&&hide=issues,contribs" alt="phil1436-stats" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=02b5af&style=flat"
         alt="phil1436-profile-views" /> </p>
