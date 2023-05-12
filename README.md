@@ -45,6 +45,10 @@
     <a href="https://github.com/phil1436/node-red-contrib-iris" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/node-red-contrib-iris/master/src/InterSystemsLogo.png" alt="node-red-contrib-iris" height="60" />
     </a>
+    <!--Petgram-->
+    <a href="https://phil1436.github.io/Petgram/" target="_blank" rel="noreferrer">
+        <img src="imgs/PetgramLogo.png" alt="Petgram" height="60" />
+    </a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -71,6 +75,10 @@
         <!--NODEJS-->
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
+        </a> 
+        <!--Angular-->
+        <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40" /> 
         </a> 
         <!--NODERED-->
         <a href="https://nodered.org/" target="_blank" rel="noreferrer">
