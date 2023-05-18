@@ -49,6 +49,10 @@
     <a href="https://phil1436.github.io/Petgram/" target="_blank" rel="noreferrer">
         <img src="imgs/PetgramLogo.png" alt="Petgram" height="60" />
     </a>
+    <!--Color-Chicken-->
+    <a href="https://phil1436.github.io/Color-Chicken/" target="_blank" rel="noreferrer">
+        <img src="imgs/ColorChickenLogo.png" alt="Color-Chicken" height="60" />
+    </a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
