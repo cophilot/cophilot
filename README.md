@@ -1,5 +1,5 @@
 <p align = "center">
-<a href="https://phil1436.github.io/">
+<a href="https://philipp-bonin.com/">
     <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/HiThere.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
@@ -26,7 +26,7 @@
         <img src="https://raw.githubusercontent.com/phil1436/ownvscodeextension/master/resources/logo.png" alt="ownvscodeextension" height="60" />
     </a>
     <!--phil-online-->
-    <a href="https://github.com/phil1436/phil1436.github.io" target="_blank" rel="noreferrer">
+    <a href="https://github.com/phil1436/phil-online" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/phil1436.github.io/master/imgs/logo.png" alt="phil-online" height="60" />
     </a>
     <!--InterSystems-HiThere-GIFGenerator-->
