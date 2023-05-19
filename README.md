@@ -27,7 +27,7 @@
     </a>
     <!--phil-online-->
     <a href="https://github.com/phil1436/phil-online" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/phil1436/phil1436.github.io/master/imgs/logo.png" alt="phil-online" height="60" />
+        <img src="https://raw.githubusercontent.com/phil1436/phil-online/master/imgs/logo.png" alt="phil-online" height="60" />
     </a>
     <!--InterSystems-HiThere-GIFGenerator-->
    <!--  <a href="https://github.com/phil1436/InterSystemsHiThereGifGenerator" target="_blank" rel="noreferrer">
@@ -46,11 +46,11 @@
         <img src="https://raw.githubusercontent.com/phil1436/node-red-contrib-iris/master/src/InterSystemsLogo.png" alt="node-red-contrib-iris" height="60" />
     </a>
     <!--Petgram-->
-    <a href="https://phil1436.github.io/Petgram/" target="_blank" rel="noreferrer">
+    <a href="https://petgram.philipp-bonin.com/" target="_blank" rel="noreferrer">
         <img src="imgs/PetgramLogo.png" alt="Petgram" height="60" />
     </a>
     <!--Color-Chicken-->
-    <a href="https://phil1436.github.io/Color-Chicken/" target="_blank" rel="noreferrer">
+    <a href="https://colorchicken.philipp-bonin.com/" target="_blank" rel="noreferrer">
         <img src="imgs/ColorChickenLogo.png" alt="Color-Chicken" height="60" />
     </a>
 </p>
