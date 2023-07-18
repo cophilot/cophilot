@@ -21,9 +21,9 @@
     <a target="_blank" href="https://github.com/phil1436/owngitextension" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/owngitextension/main/resources/logo.png" alt="owngitextension" height="60" />
     </a>
-    <!--ownvscodeextension-->
-    <a target="_blank" href="https://github.com/phil1436/ownvscodeextension" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/phil1436/ownvscodeextension/master/resources/logo.png" alt="ownvscodeextension" height="60" />
+    <!--vstoolkit-->
+    <a target="_blank" href="https://github.com/phil1436/VSToolKit" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/VSToolKit/main/assets/logo.png" alt="vstoolkit" height="60" />
     </a>
     <!--phil-online-->
     <a target="_blank" href="https://github.com/phil1436/phil-online" target="_blank" rel="noreferrer">
