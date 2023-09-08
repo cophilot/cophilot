@@ -13,6 +13,14 @@
 
 <h3 align="center">Repositories:</h3>
 <p align="center">
+    <!--phil-shell-->
+    <a target="_blank" href="https://shell.philipp-bonin.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" />
+    </a>
+    <!--phil-online-->
+    <a target="_blank" href="https://philipp-bonin.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/phil1436/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" />
+    </a>
     <!--ownobjectscriptextension-->
     <a target="_blank" href="https://github.com/phil1436/ownobjectscriptextension" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/ownobjectscriptextension/master/resources/logo.png" alt="ownobjectscriptextension" height="60" />
@@ -24,10 +32,6 @@
     <!--vstoolkit-->
     <a target="_blank" href="https://github.com/phil1436/VSToolKit" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/phil1436/VSToolKit/main/assets/logo.png" alt="vstoolkit" height="60" />
-    </a>
-    <!--phil-online-->
-    <a target="_blank" href="https://github.com/phil1436/phil-online" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/phil1436/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" />
     </a>
     <!--InterSystems-HiThere-GIFGenerator-->
    <!--  <a target="_blank" href="https://github.com/phil1436/InterSystemsHiThereGifGenerator" target="_blank" rel="noreferrer">
