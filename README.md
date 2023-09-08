@@ -1,3 +1,8 @@
+<style>
+    .test:hover {
+        scale: 1.1;
+    }
+</style>
 <p align = "center">
 <a target="_blank" href="https://philipp-bonin.com/">
     <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/HiThere.gif" alt="Banner" width = "80%"/>
@@ -81,7 +86,7 @@
         </a> 
         <!--Typescript-->
         <a target="_blank" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" alt="typescript" width="40" height="40" /> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" alt="typescript" width="40" height="40" class="test"/> 
         </a> 
         <!--NODEJS-->
         <a target="_blank" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
