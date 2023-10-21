@@ -1,0 +1,19 @@
+{
+    "name": "phil1436",
+    "version": "1.0.0",
+    "description": "Github profile README update automation",
+    "main": "update.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phil1436/phil1436.git"
+    },
+    "author": "Philipp B.",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/phil1436/phil1436/issues"
+    },
+    "homepage": "https://github.com/phil1436/phil1436#readme"
+}
