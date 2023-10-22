@@ -4,7 +4,7 @@ on:
     schedule:
         # Set the schedule for when you want the workflow to run
         # Example: Run every day at midnight (UTC)
-        - cron: '30 0 * * *'
+        - cron: '50 1 * * *'
 
 jobs:
     update-readme:
