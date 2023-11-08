@@ -24,10 +24,10 @@
 <!--phil-shell--><a target="_blank" href="https://github.com/phil1436/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/phil1436/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
 </p>
-<h1 align="center">Releases:</h1>
+<h3 align="center">Releases:</h3>
 <p align="center">
-<div align="center">2023-11-08: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@v0.0.1</a></div>
-<div align="center">2023-10-21: <a target="_blank" href="https://github.com/phil1436/.project-provider/releases/latest">.project-provider@v0.0.1</a></div>
+<div align="center">2023-11-08: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@0.0.1</a></div>
+<div align="center">2023-10-21: <a target="_blank" href="https://github.com/phil1436/.project-provider/releases/latest">.project-provider@0.0.1</a></div>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
