@@ -11,7 +11,7 @@
 
 <p align = "center"><b>Intern Sales Engineer at <a target="_blank" href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
 
-<h3 align="center">Repositories:</h3>
+<h2 align="center">Repositories:</h2>
 
 <p align="center">
 <!--.project-provider--><a target="_blank" href="https://github.com/phil1436/.project-provider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/.project-provider/main/assets/logo_small.png" alt=".project-provider" height="60" /></a>
@@ -24,12 +24,12 @@
 <!--phil-shell--><a target="_blank" href="https://github.com/phil1436/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/phil1436/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
 </p>
-<h3 align="center">Releases:</h3>
+<h2 align="center">Releases:</h2>
 <p align="center">
 <div align="center">2023-11-08: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@0.0.1</a></div>
 <div align="center">2023-10-21: <a target="_blank" href="https://github.com/phil1436/.project-provider/releases/latest">.project-provider@0.0.1</a></div>
 </p>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
         <!--IRIS-->
         <!-- <a target="_blank" href="https://www.intersystems.com/data-platform/" target="_blank" rel="noreferrer">
