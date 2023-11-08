@@ -100,7 +100,7 @@ async function generateRelease(projects) {
         return new Date(b.date) - new Date(a.date);
     });
 
-    let releaseStr = '\n<h3 align="center">Releases:</h3>\n';
+    let releaseStr = '\n<h2 align="center">Releases:</h2>\n';
     releaseStr += '<p align="center">\n';
 
     for (r of releaseArr) {

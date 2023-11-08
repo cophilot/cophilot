@@ -11,4 +11,4 @@
 
 <p align = "center"><b>Intern Sales Engineer at <a target="_blank" href= "https://www.intersystems.com/"></b><img src="https://assets.intersystems.com/c0/46/341610fc45d7bdde5aba573d97cd/intersystems-logo.svg" alt="Intersystems" height="25" /></a></p>
 
-<h3 align="center">Repositories:</h3>
+<h2 align="center">Repositories:</h2>
