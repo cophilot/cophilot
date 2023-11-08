@@ -7,6 +7,8 @@ const TIMESTAMP_FILE = '.timestamp';
 let devMode = false;
 let quiet = false;
 
+// run with -dev for dev mode
+
 async function main() {
     let projects = await fetch(
         'https://raw.githubusercontent.com/phil1436/.project-provider/main/projects.json'
@@ -98,12 +100,12 @@ async function generateRelease(projects) {
         return new Date(b.date) - new Date(a.date);
     });
 
-    let releaseStr = '\n<h1 align="center">Releases:</h1>\n';
+    let releaseStr = '\n<h3 align="center">Releases:</h3>\n';
     releaseStr += '<p align="center">\n';
 
     for (r of releaseArr) {
-        if (!r.version.startsWith('v')) {
-            r.version = 'v' + r.version;
+        if (r.version.startsWith('v')) {
+            r.version = r.version.substring(1);
         }
         releaseStr +=
             '<div align="center">' +
