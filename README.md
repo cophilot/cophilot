@@ -17,6 +17,7 @@
 <p align="center">
 <!--.project-provider--><a target="_blank" href="https://github.com/phil1436/.project-provider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/.project-provider/main/assets/logo_small.png" alt=".project-provider" height="60" /></a>
 <!--Color-Chicken--><a target="_blank" href="https://github.com/phil1436/Color-Chicken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/Color-Chicken/master/src/assets/logo.png" alt="Color-Chicken" height="60" /></a>
+<!--DevCv--><a target="_blank" href="https://github.com/phil1436/DevCv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/DevCv/main/src/assets/logo.png" alt="DevCv" height="60" /></a>
 <!--GitGitGo-CLI--><a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/GitGitGo-CLI/main/assets/logo.png" alt="GitGitGo-CLI" height="60" /></a>
 <!--OrbitLab--><a target="_blank" href="https://github.com/phil1436/OrbitLab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/OrbitLab/master/src/assets/logo_small.png" alt="OrbitLab" height="60" /></a>
 <!--ownobjectscriptextension--><a target="_blank" href="https://github.com/phil1436/ownobjectscriptextension" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/ownobjectscriptextension/master/resources/logo.png" alt="ownobjectscriptextension" height="60" /></a>
@@ -27,6 +28,7 @@
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
+<div align="center">2023-11-24: <a target="_blank" href="https://github.com/phil1436/VSToolKit/releases/latest">VSToolKit@1.1.0</a></div>
 <div align="center">2023-11-09: <a target="_blank" href="https://github.com/phil1436/.project-provider/releases/latest">.project-provider@0.0.2</a></div>
 <div align="center">2023-11-08: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@0.0.1</a></div>
 </p>
