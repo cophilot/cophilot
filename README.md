@@ -30,7 +30,6 @@
 <p align="center">
 <div align="center">2023-11-24: <a target="_blank" href="https://github.com/phil1436/VSToolKit/releases/latest">VSToolKit@1.1.0</a></div>
 <div align="center">2023-11-09: <a target="_blank" href="https://github.com/phil1436/.project-provider/releases/latest">.project-provider@0.0.2</a></div>
-<div align="center">2023-11-08: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@0.0.1</a></div>
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
