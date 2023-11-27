@@ -28,6 +28,7 @@
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
+<div align="center">2023-11-26: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@0.0.2</a></div>
 <div align="center">2023-11-24: <a target="_blank" href="https://github.com/phil1436/VSToolKit/releases/latest">VSToolKit@1.1.0</a></div>
 <div align="center">2023-11-09: <a target="_blank" href="https://github.com/phil1436/.project-provider/releases/latest">.project-provider@0.0.2</a></div>
 </p>
@@ -93,10 +94,18 @@
         <a target="_blank" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
         </a> 
-        <!--SAP-->
-        <a target="_blank" href="https://www.sap.com/index.html" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="SAP" height="40" />
+        <!--GO-->
+        <a target="_blank" href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="go" width="40" height="40" /> 
         </a> 
+        <!--Docker-->
+        <a target="_blank" href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40" /> 
+        </a> 
+        <!--SAP-->
+        <!-- <a target="_blank" href="https://www.sap.com/index.html" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="SAP" height="40" />
+        </a>  -->
         <!--POSTMAN
         <a target="_blank" href="https://postman.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> 
