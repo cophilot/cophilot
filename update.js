@@ -60,9 +60,13 @@ async function generateRelease(projects) {
         });
         console.log(releases);
         for (release of releases) {
+            const projectVersion = project.version
+                .toLowerCase()
+                .replace(/v/g, '');
             if (
-                release.tag_name == project.version ||
-                release.name == project.version
+                release.tag_name.toLowerCase().replace(/v/g, '') ==
+                    projectVersion ||
+                release.name.toLowerCase().replace(/v/g, '') == projectVersion
             ) {
                 date = new Date(release.published_at);
 
