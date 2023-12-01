@@ -19,7 +19,7 @@
 <!--Color-Chicken--><a target="_blank" href="https://github.com/phil1436/Color-Chicken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/Color-Chicken/master/src/assets/logo.png" alt="Color-Chicken" height="60" /></a>
 <!--DevCv--><a target="_blank" href="https://github.com/phil1436/DevCv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/DevCv/main/src/assets/logo.png" alt="DevCv" height="60" /></a>
 <!--GitGitGo-CLI--><a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/GitGitGo-CLI/main/assets/logo.png" alt="GitGitGo-CLI" height="60" /></a>
-<!--iScore--><a target="_blank" href="https://github.com/phil1436/iScore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/iScore/master/public/logo.png" alt="iScore" height="60" /></a>
+<!--iScore--><a target="_blank" href="https://github.com/phil1436/iScore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/iScore/master/public/logo_small.png" alt="iScore" height="60" /></a>
 <!--OrbitLab--><a target="_blank" href="https://github.com/phil1436/OrbitLab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/OrbitLab/master/src/assets/logo_small.png" alt="OrbitLab" height="60" /></a>
 <!--ownobjectscriptextension--><a target="_blank" href="https://github.com/phil1436/ownobjectscriptextension" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/ownobjectscriptextension/master/resources/logo.png" alt="ownobjectscriptextension" height="60" /></a>
 <!--Petgram--><a target="_blank" href="https://github.com/phil1436/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
@@ -127,9 +127,9 @@
 
 <!--<p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=phil1436&theme=github-dark&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF&border=02B5AF" width = "500px"/></p>-->
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=02b5af&text_color=ffffff&title_color=02b5af&icon_color=323694&&hide=issues,contribs" alt="phil1436-stats" width = "500px"/></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=540000&text_color=ffffff&title_color=323694&icon_color=323694&&hide=issues,contribs" alt="phil1436-stats" width = "500px"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=02b5af&style=flat"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=540000&style=flat"
         alt="phil1436-profile-views" /> </p>
 
 <p align = "center">
