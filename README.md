@@ -16,6 +16,7 @@
 
 <p align="center">
 <!--.project-provider--><a target="_blank" href="https://github.com/phil1436/.project-provider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/.project-provider/main/assets/logo_small.png" alt=".project-provider" height="60" /></a>
+<!--cascoria--><a target="_blank" href="https://github.com/phil1436/cascoria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/cascoria/main/src/assets/logo.png" alt="cascoria" height="60" /></a>
 <!--Color-Chicken--><a target="_blank" href="https://github.com/phil1436/Color-Chicken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/Color-Chicken/master/src/assets/logo.png" alt="Color-Chicken" height="60" /></a>
 <!--DevCv--><a target="_blank" href="https://github.com/phil1436/DevCv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/DevCv/main/src/assets/logo.png" alt="DevCv" height="60" /></a>
 <!--GitGitGo-CLI--><a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/GitGitGo-CLI/main/assets/logo.png" alt="GitGitGo-CLI" height="60" /></a>
