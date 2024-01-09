@@ -27,12 +27,7 @@
 <!--phil-online--><a target="_blank" href="https://github.com/phil1436/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/phil1436/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/phil1436/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
-</p>
-<h2 align="center">Releases:</h2>
-<p align="center">
-<div align="center">2023-12-09: <a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI/releases/latest">GitGitGo-CLI@0.1.0</a></div>
-</p>
-<h2 align="center">Languages and Tools:</h2>
+</p><h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
         <!--Angular-->
         <a target="_blank" href="https://angular.io/" target="_blank" rel="noreferrer"> 
