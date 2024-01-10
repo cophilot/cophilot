@@ -87,19 +87,19 @@
 
 <br>
 
-<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phil1436&show_icons=true&locale=en&layout=compact" alt="phil1436" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cophilot&show_icons=true&locale=en&layout=compact" alt="cophilot" /></p>
 
 <br> -->
 
-<!-- <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p> -->
+<!-- <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cophilot" alt="cophilot" /></a> </p> -->
 
-<!--<p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=phil1436&theme=github-dark&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF&border=02B5AF" width = "500px"/></p>-->
+<!--<p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=cophilot&theme=github-dark&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF&border=02B5AF" width = "500px"/></p>-->
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=540000&text_color=ffffff&title_color=323694&icon_color=323694&&hide=issues,contribs" alt="phil1436-stats" width = "500px"/></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cophilot&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=540000&text_color=ffffff&title_color=323694&icon_color=323694&&hide=issues,contribs" alt="cophilot-stats" width = "500px"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=540000&style=flat"
-        alt="phil1436-profile-views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cophilot&label=Profile%20views&color=540000&style=flat"
+        alt="cophilot-profile-views" /> </p>
 
 <p align = "center">
-    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
+    <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
 </p>

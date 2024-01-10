@@ -1,7 +1,7 @@
 <p align = "center">
 <a target="_blank" href="https://philipp-bonin.com/">
-    <!-- <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/HiThere.gif" alt="Banner" width = "80%"/> -->
-    <img src="https://raw.githubusercontent.com/phil1436/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
+    <!-- <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/HiThere.gif" alt="Banner" width = "80%"/> -->
+    <img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
 <!--<p align = "center">
@@ -15,18 +15,18 @@
 <h2 align="center">Repositories:</h2>
 
 <p align="center">
-<!--.project-provider--><a target="_blank" href="https://github.com/phil1436/.project-provider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/.project-provider/main/assets/logo_small.png" alt=".project-provider" height="60" /></a>
-<!--cascoria--><a target="_blank" href="https://github.com/phil1436/cascoria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/cascoria/main/src/assets/logo.png" alt="cascoria" height="60" /></a>
-<!--Color-Chicken--><a target="_blank" href="https://github.com/phil1436/Color-Chicken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/Color-Chicken/master/src/assets/logo.png" alt="Color-Chicken" height="60" /></a>
-<!--DevCv--><a target="_blank" href="https://github.com/phil1436/DevCv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/DevCv/main/src/assets/logo.png" alt="DevCv" height="60" /></a>
-<!--GitGitGo-CLI--><a target="_blank" href="https://github.com/phil1436/GitGitGo-CLI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/GitGitGo-CLI/main/assets/logo.png" alt="GitGitGo-CLI" height="60" /></a>
-<!--iScore--><a target="_blank" href="https://github.com/phil1436/iScore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/iScore/master/public/logo_small.png" alt="iScore" height="60" /></a>
-<!--MyPortfolio--><a target="_blank" href="https://github.com/phil1436/MyPortfolio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/MyPortfolio/master/src/assets/logo.png" alt="MyPortfolio" height="60" /></a>
-<!--OrbitLab--><a target="_blank" href="https://github.com/phil1436/OrbitLab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/OrbitLab/master/src/assets/logo_small.png" alt="OrbitLab" height="60" /></a>
-<!--Petgram--><a target="_blank" href="https://github.com/phil1436/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
-<!--phil-online--><a target="_blank" href="https://github.com/phil1436/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
-<!--phil-shell--><a target="_blank" href="https://github.com/phil1436/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
-<!--VSToolKit--><a target="_blank" href="https://github.com/phil1436/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/phil1436/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
+<!--.project-provider--><a target="_blank" href="https://github.com/cophilot/.project-provider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/assets/logo_small.png" alt=".project-provider" height="60" /></a>
+<!--cascoria--><a target="_blank" href="https://github.com/cophilot/cascoria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/cascoria/main/src/assets/logo.png" alt="cascoria" height="60" /></a>
+<!--Color-Chicken--><a target="_blank" href="https://github.com/cophilot/Color-Chicken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Color-Chicken/master/src/assets/logo.png" alt="Color-Chicken" height="60" /></a>
+<!--DevCv--><a target="_blank" href="https://github.com/cophilot/DevCv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/DevCv/main/src/assets/logo.png" alt="DevCv" height="60" /></a>
+<!--GitGitGo-CLI--><a target="_blank" href="https://github.com/cophilot/GitGitGo-CLI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/GitGitGo-CLI/main/assets/logo.png" alt="GitGitGo-CLI" height="60" /></a>
+<!--iScore--><a target="_blank" href="https://github.com/cophilot/iScore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/iScore/master/public/logo_small.png" alt="iScore" height="60" /></a>
+<!--MyPortfolio--><a target="_blank" href="https://github.com/cophilot/MyPortfolio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/MyPortfolio/master/src/assets/logo.png" alt="MyPortfolio" height="60" /></a>
+<!--OrbitLab--><a target="_blank" href="https://github.com/cophilot/OrbitLab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/OrbitLab/master/src/assets/logo_small.png" alt="OrbitLab" height="60" /></a>
+<!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
+<!--phil-online--><a target="_blank" href="https://github.com/cophilot/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
+<!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
+<!--VSToolKit--><a target="_blank" href="https://github.com/cophilot/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
 </p><h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
         <!--Angular-->
@@ -116,20 +116,19 @@
 
 <br>
 
-<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phil1436&show_icons=true&locale=en&layout=compact" alt="phil1436" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cophilot&show_icons=true&locale=en&layout=compact" alt="cophilot" /></p>
 
 <br> -->
 
-<!-- <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil1436" alt="phil1436" /></a> </p> -->
+<!-- <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cophilot" alt="cophilot" /></a> </p> -->
 
-<!--<p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=phil1436&theme=github-dark&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF&border=02B5AF" width = "500px"/></p>-->
+<!--<p align = "center"><img align="center" src="https://streak-stats.demolab.com?user=cophilot&theme=github-dark&border_radius=5&ring=323694&stroke=02B5AF&fire=FB5B14&dates=EBEBEB&currStreakLabel=02B5AF&border=02B5AF" width = "500px"/></p>-->
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phil1436&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=540000&text_color=ffffff&title_color=323694&icon_color=323694&&hide=issues,contribs" alt="phil1436-stats" width = "500px"/></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cophilot&count_private=true&show_icons=true&bg_color=0d1117&border&border_color=540000&text_color=ffffff&title_color=323694&icon_color=323694&&hide=issues,contribs" alt="cophilot-stats" width = "500px"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phil1436&label=Profile%20views&color=540000&style=flat"
-        alt="phil1436-profile-views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cophilot&label=Profile%20views&color=540000&style=flat"
+        alt="cophilot-profile-views" /> </p>
 
 <p align = "center">
-    <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
+    <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
 </p>
-

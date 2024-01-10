@@ -1,7 +1,7 @@
 <p align = "center">
 <a target="_blank" href="https://philipp-bonin.com/">
-    <!-- <img src="https://raw.githubusercontent.com/phil1436/phil1436/main/imgs/HiThere.gif" alt="Banner" width = "80%"/> -->
-    <img src="https://raw.githubusercontent.com/phil1436/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
+    <!-- <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/HiThere.gif" alt="Banner" width = "80%"/> -->
+    <img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
 <!--<p align = "center">

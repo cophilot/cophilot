@@ -1,5 +1,5 @@
 {
-    "name": "phil1436",
+    "name": "cophilot",
     "version": "1.0.0",
     "description": "Github profile README update automation",
     "main": "update.js",
@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/phil1436/phil1436.git"
+        "url": "git+https://github.com/cophilot/cophilot.git"
     },
     "author": "Philipp B.",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/phil1436/phil1436/issues"
+        "url": "https://github.com/cophilot/cophilot/issues"
     },
-    "homepage": "https://github.com/phil1436/phil1436#readme"
+    "homepage": "https://github.com/cophilot/cophilot#readme"
 }

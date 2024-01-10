@@ -11,7 +11,7 @@ let quiet = false;
 
 async function main() {
     let projects = await fetch(
-        'https://raw.githubusercontent.com/phil1436/.project-provider/main/projects.json'
+        'https://raw.githubusercontent.com/cophilot/.project-provider/main/projects.json'
     ).then((response) => {
         return response.json();
     });
@@ -54,7 +54,7 @@ async function generateRelease(projects) {
             continue;
         }
         let releases = await fetch(
-            `https://api.github.com/repos/phil1436/${project.name}/releases`
+            `https://api.github.com/repos/cophilot/${project.name}/releases`
         ).then((response) => {
             return response.json();
         });
@@ -116,7 +116,7 @@ async function generateRelease(projects) {
             '' +
             r.date +
             ': ' +
-            '<a target="_blank" href="https://github.com/phil1436/' +
+            '<a target="_blank" href="https://github.com/cophilot/' +
             r.name +
             '/releases/latest">' +
             r.name +
