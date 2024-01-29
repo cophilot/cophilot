@@ -1,12 +1,8 @@
 <p align = "center">
 <a target="_blank" href="https://philipp-bonin.com/">
-    <!-- <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/HiThere.gif" alt="Banner" width = "80%"/> -->
     <img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
-<!--<p align = "center">
-    <img src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif" alt="Banner" width = "80%"/>
-</p>-->
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
@@ -31,6 +27,7 @@
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
+<div align="center">2024-01-28: <a target="_blank" href="https://github.com/cophilot/.project-provider/releases/latest">.project-provider@1.0.0</a></div>
 <div align="center">2024-01-28: <a target="_blank" href="https://github.com/cophilot/templify/releases/latest">templify@0.0.1</a></div>
 </p>
 <h2 align="center">Languages and Tools:</h2>
