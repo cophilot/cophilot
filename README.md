@@ -26,8 +26,14 @@
 <!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
 <!--phil-online--><a target="_blank" href="https://github.com/cophilot/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
+<!--templify--><a target="_blank" href="https://github.com/cophilot/templify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/templify/master/assets/logo.png" alt="templify" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/cophilot/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
-</p><h2 align="center">Languages and Tools:</h2>
+</p>
+<h2 align="center">Releases:</h2>
+<p align="center">
+<div align="center">2024-01-28: <a target="_blank" href="https://github.com/cophilot/templify/releases/latest">templify@0.0.1</a></div>
+</p>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
         <!--Angular-->
         <a target="_blank" href="https://angular.io/" target="_blank" rel="noreferrer"> 
