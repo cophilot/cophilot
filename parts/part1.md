@@ -1,12 +1,8 @@
 <p align = "center">
 <a target="_blank" href="https://philipp-bonin.com/">
-    <!-- <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/HiThere.gif" alt="Banner" width = "80%"/> -->
     <img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
-<!--<p align = "center">
-    <img src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif" alt="Banner" width = "80%"/>
-</p>-->
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 

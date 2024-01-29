@@ -17,7 +17,7 @@ async function main() {
     });
 
     let html = '<p align="center">\n';
-    for (project of projects) {
+    for (let project of projects) {
         html += convertProjectToHTML(project) + '\n';
     }
     html += '</p>';
@@ -28,7 +28,7 @@ async function main() {
     generateRelease(projects);
     html = part1 + html + release + part2;
     // write to file
-    op = devMode ? OUTPUTDEV : OUTPUT;
+    const op = devMode ? OUTPUTDEV : OUTPUT;
     fs.writeFile(op, html, (err) => {
         if (err) {
             console.error(err);
@@ -49,7 +49,7 @@ async function main() {
 
 async function generateRelease(projects) {
     let releaseArr = [];
-    for (project of projects) {
+    for (let project of projects) {
         if (project.version == '') {
             continue;
         }
@@ -58,17 +58,25 @@ async function generateRelease(projects) {
         ).then((response) => {
             return response.json();
         });
-        console.log(releases);
-        for (release of releases) {
+        for (let release of releases) {
             const projectVersion = project.version
                 .toLowerCase()
                 .replace(/v/g, '');
+            console.log(
+                project.name +
+                    ';' +
+                    projectVersion +
+                    ';' +
+                    release.tag_name +
+                    ';' +
+                    release.name
+            );
             if (
                 release.tag_name.toLowerCase().replace(/v/g, '') ==
                     projectVersion ||
                 release.name.toLowerCase().replace(/v/g, '') == projectVersion
             ) {
-                date = new Date(release.published_at);
+                let date = new Date(release.published_at);
 
                 // continue if release is older than 1 month
                 if (new Date() - date > 30 * 24 * 60 * 60 * 1000) {
@@ -87,15 +95,6 @@ async function generateRelease(projects) {
         }
     }
 
-    /* releaseArr = [
-        { name: 'GitGitGo-CLI', version: '0.0.1', date: '2023-11-08' },
-        {
-            name: '.project-provider',
-            version: '0.0.1',
-            date: '2023-10-21',
-        },
-    ]; */
-
     console.log(releaseArr);
     if (releaseArr.length == 0) {
         return '';
@@ -107,7 +106,7 @@ async function generateRelease(projects) {
     let releaseStr = '\n<h2 align="center">Releases:</h2>\n';
     releaseStr += '<p align="center">\n';
 
-    for (r of releaseArr) {
+    for (let r of releaseArr) {
         if (r.version.startsWith('v')) {
             r.version = r.version.substring(1);
         }
@@ -144,7 +143,7 @@ function convertProjectToHTML(project) {
 function parseArgs() {
     // get command line arguments
     const args = process.argv.slice(2);
-    for (arg of args) {
+    for (let arg of args) {
         if (arg == '-dev') {
             devMode = true;
         }
