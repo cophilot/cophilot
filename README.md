@@ -27,7 +27,7 @@
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
-<div align="center">2024-02-06: <a target="_blank" href="https://github.com/cophilot/templify/releases/latest">templify@0.3.0</a></div>
+<div align="center">2024-02-09: <a target="_blank" href="https://github.com/cophilot/templify/releases/latest">templify@0.3.1</a></div>
 <div align="center">2024-01-28: <a target="_blank" href="https://github.com/cophilot/.project-provider/releases/latest">.project-provider@1.0.0</a></div>
 </p>
 <h2 align="center">Languages and Tools:</h2>
