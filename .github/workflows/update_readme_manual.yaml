@@ -1,0 +1,36 @@
+name: Get Projects (PUSH)
+
+on:
+    workflow_dispatch:
+        inputs:
+            project:
+                description: 'Project name'
+                required: true
+                default: 'all'
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Check out code
+              uses: actions/checkout@v2
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: 18
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Run Node script
+              run: npm run update
+
+            - name: Commit changes
+              run: |
+                  git config user.name 'GitHub Actions'
+                  git config user.email 'actions@github.com'
+                  git add .  # This will stage all changes in the repository
+                  git commit -m "Automated data update"
+                  git push
