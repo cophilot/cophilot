@@ -1,4 +1,4 @@
-name: Get Projects (PUSH)
+name: Get Projects (MANUAL)
 
 on:
     workflow_dispatch:
