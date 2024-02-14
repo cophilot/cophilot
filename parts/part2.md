@@ -40,15 +40,19 @@
         </a>
         <!--React-->
         <a target="_blank" href="https://react.dev/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Angular" width="40" height="34" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="34" />
+        </a>
+        <!--Rust-->
+        <a target="_blank" href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+            <img src="https://miro.medium.com/v2/resize:fit:512/1*5GTKx0a2tf7mAMYnplvBeg.png" alt="Rust" width="40" />
         </a>
         <!-- SASS -->
         <a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/>
+            <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="SASS" width="40" height="40"/>
         </a>
         <!--Typescript-->
         <a target="_blank" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" alt="typescript" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
         </a>
         <!--Vite-->
         <a target="_blank" href="https://vitejs.dev/" target="_blank" rel="noreferrer">
