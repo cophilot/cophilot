@@ -8,7 +8,7 @@
 
 <div align="center" class="job-box">
     <b>Software Developer at </b>
-    <a target="_blank" href= "https://www.tu-darmstadt.de/">
+    <a target="_blank" href= "https://teamscale.com/about-us">
         <img src="https://teamscale.com/hs-fs/hubfs/CQSE%20Logo.png?width=704&height=468&name=CQSE%20Logo.png" alt="TU Darmsatdt" height="25" />
     </a>
 </div>
