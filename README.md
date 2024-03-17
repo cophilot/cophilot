@@ -95,9 +95,9 @@
             <img src="https://camo.githubusercontent.com/2e1efd50b61f26c56e82929d735dce115937350e280abac98641c79d765da27c/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" width="40" height="40" />
         </a>
         <!--VSCode-->
-        <a target="_blank" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <!--<a target="_blank" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" />
-        </a>
+        </a>-->
         <!--Vue-->
         <a target="_blank" href="https://vuejs.org/" target="_blank" rel="noreferrer">
             <img src="https://camo.githubusercontent.com/0b17e5a01574a2c1251b51c910c422f6ca6cb968a52686a770b668a634792c09/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="Vue.js" width="40" height="40" />
