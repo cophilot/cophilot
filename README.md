@@ -16,6 +16,7 @@
 <h2 align="center">Repositories:</h2>
 
 <p align="center">
+<!--templify--><a target="_blank" href="https://github.com/cophilot/templify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/templify/master/assets/logo.png" alt="templify" height="60" /></a>
 <!--.project-provider--><a target="_blank" href="https://github.com/cophilot/.project-provider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/assets/logo_small.png" alt=".project-provider" height="60" /></a>
 <!--cascoria--><a target="_blank" href="https://github.com/cophilot/cascoria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/cascoria/main/src/assets/logo.png" alt="cascoria" height="60" /></a>
 <!--Color-Chicken--><a target="_blank" href="https://github.com/cophilot/Color-Chicken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Color-Chicken/master/src/assets/logo.png" alt="Color-Chicken" height="60" /></a>
@@ -26,7 +27,6 @@
 <!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
 <!--phil-online--><a target="_blank" href="https://github.com/cophilot/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
-<!--templify--><a target="_blank" href="https://github.com/cophilot/templify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/templify/master/assets/logo.png" alt="templify" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/cophilot/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
 </p>
 <h2 align="center">Releases:</h2>
