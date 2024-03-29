@@ -7,9 +7,8 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
 <div align="center" class="job-box">
-    <b>Software Developer at </b>
     <a target="_blank" href= "https://teamscale.com/about-us">
-        <img src="https://teamscale.com/hs-fs/hubfs/CQSE%20Logo.png?width=704&height=468&name=CQSE%20Logo.png" alt="TU Darmsatdt" height="25" />
+        <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/cqse.png" alt="Software Developer at CQSE" height="25" />
     </a>
 </div>
 
