@@ -49,10 +49,6 @@
         <a target="_blank" href="https://go.dev/" target="_blank" rel="noreferrer">
             <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="go" width="40" height="40" />
         </a>
-        <!--IRIS-->
-        <a target="_blank" href="https://www.intersystems.com/data-platform/" target="_blank" rel="noreferrer">
-            <img src="imgs/IRIS.png" alt="IRIS" height="40" />
-        </a>
         <!--JAVA-->
         <a target="_blank" href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
