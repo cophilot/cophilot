@@ -8,7 +8,7 @@
 
 <div align="center" class="job-box">
     <a target="_blank" href= "https://www.telespazio.de/en/">
-        <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/telespazio.png" alt="Software Developer at Telespazio Germany" height="25" />
+        <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/telespazio.png" alt="Software Developer at Telespazio Germany" height="40" />
     </a>
 </div>
 
