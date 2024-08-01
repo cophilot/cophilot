@@ -7,8 +7,8 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
 <div align="center" class="job-box">
-    <a target="_blank" href= "https://teamscale.com/about-us">
-        <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/cqse.png" alt="Software Developer at CQSE" height="25" />
+    <a target="_blank" href= "https://www.telespazio.de/en/">
+        <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/telespazio.png" alt="Software Developer at Telespazio Germany" height="25" />
     </a>
 </div>
 
@@ -77,6 +77,10 @@
         <a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
             <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="SASS" width="40" height="40"/>
         </a>
+        <!-- SVELTE -->
+        <a target="_blank" href="https://svelte.dev/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg" alt="Svelte" width="40" height="40"/>
+        </a>
         <!--Typescript-->
         <a target="_blank" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
@@ -115,12 +119,6 @@
         </a>-->
 
 </p>
-
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cophilot&label=Profile%20views&color=540000&style=flat"
-        alt="cophilot-profile-views" /> </p>
-
 <p align = "center">
     <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/ByeBye.gif" alt="ByeBye👋"/>
 </p>
