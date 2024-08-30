@@ -4,7 +4,15 @@
         <a target="_blank" href="https://angular.io/" target="_blank" rel="noreferrer"> 
             <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="40" height="40" /> 
         </a>
-            <!--Docker-->
+        <!--Bash-->
+        <a target="_blank" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> 
+            <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?resize=150%2C150&ssl=1" alt="Angular" width="40" height="40" /> 
+        </a>
+        <!--C++-->
+        <a target="_blank" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+        </a>
+        <!--Docker-->
         <a target="_blank" href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40" />
         </a>
@@ -56,19 +64,15 @@
         </a>
         <!--Vite-->
         <a target="_blank" href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://camo.githubusercontent.com/2e1efd50b61f26c56e82929d735dce115937350e280abac98641c79d765da27c/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" width="40" height="40" />
+            <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40" />
         </a>
         <!--VSCode-->
         <!--<a target="_blank" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" />
         </a>-->
         <!--Vue-->
-        <a target="_blank" href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <!-- <a target="_blank" href="https://vuejs.org/" target="_blank" rel="noreferrer">
             <img src="https://camo.githubusercontent.com/0b17e5a01574a2c1251b51c910c422f6ca6cb968a52686a770b668a634792c09/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="Vue.js" width="40" height="40" />
-        </a>
-        <!--C++-->
-        <!-- <a target="_blank" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
         </a> -->
         <!--C-->
         <!-- <a target="_blank" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
