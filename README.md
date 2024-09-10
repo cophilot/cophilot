@@ -24,12 +24,18 @@
 <!--DevCv--><a target="_blank" href="https://github.com/cophilot/DevCv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/DevCv/main/src/assets/logo.png" alt="DevCv" height="60" /></a>
 <!--FlowVisor--><a target="_blank" href="https://github.com/cophilot/FlowVisor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/FlowVisor/main/assets/logo_small.png" alt="FlowVisor" height="60" /></a>
 <!--iScore--><a target="_blank" href="https://github.com/cophilot/iScore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/iScore/master/public/logo_small.png" alt="iScore" height="60" /></a>
+<!--msh--><a target="_blank" href="https://github.com/cophilot/msh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/msh/main/assets/logo.png" alt="msh" height="60" /></a>
 <!--MyPortfolio--><a target="_blank" href="https://github.com/cophilot/MyPortfolio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/MyPortfolio/master/src/assets/logo.png" alt="MyPortfolio" height="60" /></a>
 <!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
 <!--phil-online--><a target="_blank" href="https://github.com/cophilot/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/cophilot/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
-</p><h2 align="center">Languages and Tools:</h2>
+</p>
+<h2 align="center">Releases:</h2>
+<p align="center">
+<div align="center">2024-09-09: <a target="_blank" href="https://github.com/cophilot/msh/releases/latest">msh@0.0.1</a></div>
+</p>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
         <!--Angular-->
         <a target="_blank" href="https://angular.io/" target="_blank" rel="noreferrer"> 
