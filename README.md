@@ -26,7 +26,6 @@
 <!--FlowVisor--><a target="_blank" href="https://github.com/cophilot/FlowVisor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/FlowVisor/main/assets/logo_small.png" alt="FlowVisor" height="60" /></a>
 <!--MyPortfolio--><a target="_blank" href="https://github.com/cophilot/MyPortfolio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/MyPortfolio/master/src/assets/logo.png" alt="MyPortfolio" height="60" /></a>
 <!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
-<!--phil-online--><a target="_blank" href="https://github.com/cophilot/phil-online" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-online/master/src/assets/logoPhilOnline.png" alt="phil-online" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
 <!--VSToolKit--><a target="_blank" href="https://github.com/cophilot/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
 </p>
