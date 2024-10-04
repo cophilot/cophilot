@@ -1,5 +1,5 @@
 <p align = "center">
-<a target="_blank" href="https://philipp-bonin.com/">
+<a target="_blank" href="https://portfolio.philipp-bonin.com">
     <img src="https://raw.githubusercontent.com/cophilot/.project-provider/main/out/banner.gif" alt="Banner" width = "80%"/>
     </a>
 </p>
