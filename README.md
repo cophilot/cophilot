@@ -16,6 +16,7 @@
 
 <p align="center">
 <!--templify--><a target="_blank" href="https://github.com/cophilot/templify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/templify/master/assets/logo.png" alt="templify" height="60" /></a>
+<!--rocket-engine-xplorer--><a target="_blank" href="https://github.com/cophilot/rocket-engine-xplorer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/rocket-engine-xplorer/main/src/lib/images/logo.png" alt="rocket-engine-xplorer" height="60" /></a>
 <!--OrbitLab--><a target="_blank" href="https://github.com/cophilot/OrbitLab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/OrbitLab/master/src/assets/logo_small.png" alt="OrbitLab" height="60" /></a>
 <!--msh--><a target="_blank" href="https://github.com/cophilot/msh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/msh/main/assets/logo.png" alt="msh" height="60" /></a>
 <!--board-score-hub--><a target="_blank" href="https://github.com/cophilot/board-score-hub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/board-score-hub/main/src/assets/logo-red.png" alt="board-score-hub" height="60" /></a>
@@ -26,7 +27,6 @@
 <!--FlowVisor--><a target="_blank" href="https://github.com/cophilot/FlowVisor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/FlowVisor/main/assets/logo_small.png" alt="FlowVisor" height="60" /></a>
 <!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
-<!--VSToolKit--><a target="_blank" href="https://github.com/cophilot/VSToolKit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/VSToolKit/main/assets/logo.png" alt="VSToolKit" height="60" /></a>
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
