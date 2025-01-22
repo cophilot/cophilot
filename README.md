@@ -30,7 +30,7 @@
 <p align="center"> 
         <!--Angular-->
         <a target="_blank" href="https://angular.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="40" height="40" /> 
+            <img src="https://www.angularacademy.ca/Assets/img/angular@2x.png" alt="Angular" width="40" height="40" /> 
         </a>
         <!--Bash-->
         <a target="_blank" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> 
