@@ -15,6 +15,7 @@
 <h2 align="center">Repositories:</h2>
 
 <p align="center">
+<!--templify--><a target="_blank" href="https://github.com/cophilot/templify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/templify/master/assets/logo.png" alt="templify" height="60" /></a>
 <!--rocket-engine-xplorer--><a target="_blank" href="https://github.com/cophilot/rocket-engine-xplorer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/rocket-engine-xplorer/main/src/lib/images/logo_small.png" alt="rocket-engine-xplorer" height="60" /></a>
 <!--OrbitLab--><a target="_blank" href="https://github.com/cophilot/OrbitLab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/OrbitLab/master/src/assets/logo_small.png" alt="OrbitLab" height="60" /></a>
 <!--msh--><a target="_blank" href="https://github.com/cophilot/msh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/msh/main/assets/logo.png" alt="msh" height="60" /></a>
@@ -28,6 +29,7 @@
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
+<div align="center">2025-01-31: <a target="_blank" href="https://github.com/cophilot/templify/releases/latest">templify@2.0.0</a></div>
 <div align="center">2025-01-30: <a target="_blank" href="https://github.com/cophilot/msh/releases/latest">msh@1.0.1</a></div>
 </p>
 <h2 align="center">Languages and Tools:</h2>
