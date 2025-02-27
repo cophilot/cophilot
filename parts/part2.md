@@ -30,10 +30,10 @@
         <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         </a>
-        <!--NODEJS-->
+        <!--NODEJS
         <a target="_blank" href="https://nodejs.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-        </a>
+        </a> -->
         <!--NODERED-->
         <!-- <a target="_blank" href="https://nodered.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="nodered" width="40" height="40" />
