@@ -30,7 +30,6 @@
 <h2 align="center">Releases:</h2>
 <p align="center">
 <div align="center">2025-02-19: <a target="_blank" href="https://github.com/cophilot/templify/releases/latest">templify@2.0.1</a></div>
-<div align="center">2025-01-30: <a target="_blank" href="https://github.com/cophilot/msh/releases/latest">msh@1.0.1</a></div>
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
