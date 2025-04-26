@@ -29,7 +29,7 @@
 </p>
 <h2 align="center">Releases:</h2>
 <p align="center">
-<div align="center">2025-04-16: <a target="_blank" href="https://github.com/cophilot/msh/releases/latest">msh@1.0.3</a></div>
+<div align="center">2025-04-25: <a target="_blank" href="https://github.com/cophilot/msh/releases/latest">msh@1.0.4</a></div>
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
