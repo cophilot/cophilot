@@ -26,7 +26,12 @@
 <!--FlowVisor--><a target="_blank" href="https://github.com/cophilot/FlowVisor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/FlowVisor/main/assets/logo_small.png" alt="FlowVisor" height="60" /></a>
 <!--Petgram--><a target="_blank" href="https://github.com/cophilot/Petgram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/Petgram/master/src/assets/img/logo_small.png" alt="Petgram" height="60" /></a>
 <!--phil-shell--><a target="_blank" href="https://github.com/cophilot/phil-shell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cophilot/phil-shell/master/src/assets/logo.png" alt="phil-shell" height="60" /></a>
-</p><h2 align="center">Languages and Tools:</h2>
+</p>
+<h2 align="center">Releases:</h2>
+<p align="center">
+<div align="center">2025-06-01: <a target="_blank" href="https://github.com/cophilot/msh/releases/latest">msh@1.1.0</a></div>
+</p>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
         <!--Angular-->
         <a target="_blank" href="https://angular.io/" target="_blank" rel="noreferrer"> 
