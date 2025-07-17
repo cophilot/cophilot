@@ -46,6 +46,8 @@
         </a>
         <!--GIT-->
         <a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+        <!--GITHUB ACTIONS-->
+        <a target="_blank" href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*7qk0-4XwCKWQO0GU5Hu39w.png" alt="Github Actions" width="40" height="40"/> </a>
         <!--GO-->
         <a target="_blank" href="https://go.dev/" target="_blank" rel="noreferrer">
             <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="go" width="40" height="40" />
@@ -58,6 +60,14 @@
         <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         </a>
+        <!--JIRA-->
+        <a target="_blank" href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+            <img src="https://www.tenfold-security.com/wp-content/uploads/JiraLogo.svg" alt="Jira" width="40" height="40" />
+        </a>
+        <!--LATEX-->
+        <a target="_blank" href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+            <img src="https://images.seeklogo.com/logo-png/8/2/latex-logo-png_seeklogo-82426.png" alt="Latex" width="40" height="40" />
+        </a>
         <!--NODEJS
         <a target="_blank" href="https://nodejs.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
@@ -66,6 +76,10 @@
         <!-- <a target="_blank" href="https://nodered.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="nodered" width="40" height="40" />
         </a> -->
+        <!--PREACT-->
+        <a target="_blank" href="https://preactjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://preactjs.com/branding/symbol.png" alt="preact" width="40" height="40" />
+        </a>
         <!--PYTHON-->
         <a target="_blank" href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -81,6 +95,10 @@
         <!-- SASS -->
         <a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
             <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="SASS" width="40" height="40"/>
+        </a>
+        <!-- SCALA -->`
+        <a target="_blank" href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/scala-4-logo.png" alt="Scala" width="40" height="40"/>
         </a>
         <!-- SVELTE -->
         <a target="_blank" href="https://svelte.dev/" target="_blank" rel="noreferrer">
