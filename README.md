@@ -66,7 +66,7 @@
         </a>
         <!--LATEX-->
         <a target="_blank" href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-            <img src="https://images.seeklogo.com/logo-png/8/2/latex-logo-png_seeklogo-82426.png" alt="Latex" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/logo/latex.png" alt="Latex" width="40" height="40" />
         </a>
         <!--NODEJS
         <a target="_blank" href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -96,7 +96,7 @@
         <a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
             <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="SASS" width="40" height="40"/>
         </a>
-        <!-- SCALA -->`
+        <!-- SCALA -->
         <a target="_blank" href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/scala-4-logo.png" alt="Scala" width="40" height="40"/>
         </a>
