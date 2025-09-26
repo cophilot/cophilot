@@ -110,7 +110,7 @@
         </a>
         <!--Vite-->
         <a target="_blank" href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="40" height="40" />
         </a>
         <!--VSCode-->
         <!--<a target="_blank" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
