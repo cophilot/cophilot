@@ -6,10 +6,10 @@
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 
-<div align="center" class="job-box">
+<!--<div align="center" class="job-box">
     <a target="_blank" href= "https://www.telespazio.de/en/">
         <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/telespazio.png" alt="Software Developer at Telespazio Germany" height="40" />
     </a>
-</div>
+</div>-->
 
 <h2 align="center">Repositories:</h2>
