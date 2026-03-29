@@ -56,6 +56,10 @@
         <a target="_blank" href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
         </a>
+        <!--QT-->
+        <a target="_blank" href="https://www.qt.io/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/qt/qt-original.svg" alt="QT" width="40" height="40" />
+        </a>
         <!--React-->
         <a target="_blank" href="https://react.dev/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="34" />
@@ -78,7 +82,7 @@
         </a>
         <!--Typescript-->
         <a target="_blank" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
         </a>
         <!--Vite-->
         <a target="_blank" href="https://vitejs.dev/" target="_blank" rel="noreferrer">
