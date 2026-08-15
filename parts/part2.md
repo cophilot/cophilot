@@ -62,7 +62,7 @@
         </a>
         <!--React-->
         <a target="_blank" href="https://react.dev/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="34" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="React" width="40" height="34" />
         </a>
         <!--Rust-->
         <a target="_blank" href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
