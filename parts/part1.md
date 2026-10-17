@@ -4,7 +4,11 @@
     </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Philipp</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+
+<div align="center" class="name-box">
+        <img src="https://raw.githubusercontent.com/cophilot/cophilot/main/imgs/philipp.png" alt="Philipp" height="150" />
+</div>
 
 <div align="center" class="job-box">
     <a target="_blank" href= "https://www.telespazio.de/en/">
